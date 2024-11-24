@@ -3,7 +3,7 @@ import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } 
 import Home from './pages/Home'
 import Navbar from './components/Navbar'
 import Contact from './pages/Contact'
-import MainLayout from './layouts/MainLayout'
+import MainLayout from './Layouts/MainLayout'
 import About from './pages/About'
 
 const App = () => {
